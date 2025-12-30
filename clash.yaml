@@ -8,38 +8,37 @@ hosts:
   .googleapis.cn: 142.250.196.131
   .google.cn: 142.250.196.131
 proxies:
-  - {name: "[Trojan] 1 - Trojan - Domain : 443", server: wall.fimall.filegear-sg.me, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/tr4uVAwufKBPqfiwTp/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 10 - Trojan - Domain : 8443", server: wall.fimall.filegear-sg.me, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trjmFM186Prn07lxwK/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 11 - Trojan - Domain : 8443", server: www.speedtest.net, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trPc3nhvgwImFa3BGQ/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 12 - Trojan - IPv4 : 8443", server: 172.67.184.222, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trtwzKnT2sM322WSux/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 13 - Trojan - IPv4 : 8443", server: 104.21.68.18, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trqaW9pZJyPmMuJgwU/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 14 - Trojan - IPv6 : 8443", server: "[2606:4700:3034::6815:4412]", port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trIkHdzdvglKLPkyVo/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 15 - Trojan - IPv6 : 8443", server: "[2606:4700:3036::ac43:b8de]", port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/tr65xjf0EvYOcppRjR/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 16 - Trojan - Clean IP : 8443", server: fasttest1.cloudflare.182682.xyz, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trNLHuL7AafPGFfOVQ/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 17 - Trojan - Clean IP : 8443", server: bestcf.top, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trjl4unz8xuMM5btRt/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 18 - Trojan - Clean IP : 8443", server: www.cloudflare-cn.com, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trr7eouGYhbBXDnXUR/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 19 - Trojan - Domain : 2096", server: wall.fimall.filegear-sg.me, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trksfE0Dw2GRRVhJ77/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 2 - Trojan - Domain : 443", server: www.speedtest.net, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trEJOmTUddYnlVQOzA/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 20 - Trojan - Domain : 2096", server: www.speedtest.net, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trQ0LYXu3TM0k5SYHS/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 21 - Trojan - IPv4 : 2096", server: 172.67.184.222, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trfJbPM7xKMNtCE6nk/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 22 - Trojan - IPv4 : 2096", server: 104.21.68.18, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trgn3MDm8vHgIfBmQm/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 23 - Trojan - IPv6 : 2096", server: "[2606:4700:3034::6815:4412]", port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/triEP8N8Ti7qnHP8zK/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 24 - Trojan - IPv6 : 2096", server: "[2606:4700:3036::ac43:b8de]", port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trle9WXMUdrzyCN4zU/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 25 - Trojan - Clean IP : 2096", server: fasttest1.cloudflare.182682.xyz, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trAKYzyTOsICDGEDPL/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 26 - Trojan - Clean IP : 2096", server: bestcf.top, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trFOLax8X6Rvx22U32/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 27 - Trojan - Clean IP : 2096", server: www.cloudflare-cn.com, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trsfrVZQxAovqvInKf/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 3 - Trojan - IPv4 : 443", server: 172.67.184.222, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trzIV4I0Iqoz1R7b4d/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 4 - Trojan - IPv4 : 443", server: 104.21.68.18, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trA9DuMgeQYr12CGQB/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 5 - Trojan - IPv6 : 443", server: "[2606:4700:3034::6815:4412]", port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trjuXaG6jX9o9SYA5z/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 6 - Trojan - IPv6 : 443", server: "[2606:4700:3036::ac43:b8de]", port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trsMcJCoWbG8vs7KiX/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 7 - Trojan - Clean IP : 443", server: fasttest1.cloudflare.182682.xyz, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trRTbuZIbJ54TobhbN/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 8 - Trojan - Clean IP : 443", server: bestcf.top, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trQK6ekizwvbD4uV99/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
-  - {name: "[Trojan] 9 - Trojan - Clean IP : 443", server: www.cloudflare-cn.com, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trnDnpLzYiDjJhHUtj/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 1 - Trojan - Domain : 443", server: wall.fimall.filegear-sg.me, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trEiECC11BxE0Kp5DD/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 10 - Trojan - Domain : 8443", server: wall.fimall.filegear-sg.me, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trDqDYBFmq0chlWsPV/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 11 - Trojan - Domain : 8443", server: www.speedtest.net, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trgkcome3tYWEA3tsV/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 12 - Trojan - IPv4 : 8443", server: 172.67.184.222, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trhkMvdWUONLv1ZkAu/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 13 - Trojan - IPv4 : 8443", server: 104.21.68.18, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trGKxiyVwqWMe4KGeI/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 14 - Trojan - IPv6 : 8443", server: "[2606:4700:3034::6815:4412]", port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trI0rukQfrs1fkAspy/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 15 - Trojan - IPv6 : 8443", server: "[2606:4700:3036::ac43:b8de]", port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trenZb3Ai5YP7g7OA5/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 16 - Trojan - Clean IP : 8443", server: fasttest1.cloudflare.182682.xyz, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trT36bNBXlTeGU8bW4/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 17 - Trojan - Clean IP : 8443", server: bestcf.top, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trW7fXZcPiOpWSjrB5/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 18 - Trojan - Clean IP : 8443", server: www.cloudflare-cn.com, port: 8443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trpe9FbeD9d0uCxjo2/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 19 - Trojan - Domain : 2096", server: wall.fimall.filegear-sg.me, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/traMUHkJw0NSky7JXJ/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 2 - Trojan - Domain : 443", server: www.speedtest.net, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trCSKoDrdMy31uei4h/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 20 - Trojan - Domain : 2096", server: www.speedtest.net, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trk1FXp94xbHV5f02y/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 21 - Trojan - IPv4 : 2096", server: 172.67.184.222, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trM3DFe6N2nNiDxMwt/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 22 - Trojan - IPv4 : 2096", server: 104.21.68.18, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trizPjHWeMelacLHIn/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 23 - Trojan - IPv6 : 2096", server: "[2606:4700:3034::6815:4412]", port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trhUZ8XBPyWfWDxo64/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 24 - Trojan - IPv6 : 2096", server: "[2606:4700:3036::ac43:b8de]", port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/tryhsL81PlD0XFZXfi/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 25 - Trojan - Clean IP : 2096", server: fasttest1.cloudflare.182682.xyz, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trE99ownrqB7QkJszV/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 26 - Trojan - Clean IP : 2096", server: bestcf.top, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trzej8mKWUUnaFA1Hq/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 27 - Trojan - Clean IP : 2096", server: www.cloudflare-cn.com, port: 2096, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trLFqI6eeVG8O9U5Gx/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 3 - Trojan - IPv4 : 443", server: 172.67.184.222, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/troYJCH1VvarGB1LBm/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 4 - Trojan - IPv4 : 443", server: 104.21.68.18, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trKWIkJPNRCFq90UWa/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 5 - Trojan - IPv6 : 443", server: "[2606:4700:3034::6815:4412]", port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trI7ehYdOHHt3sT5WO/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 6 - Trojan - IPv6 : 443", server: "[2606:4700:3036::ac43:b8de]", port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trF0SmKkdnq3VR1Ywd/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 7 - Trojan - Clean IP : 443", server: fasttest1.cloudflare.182682.xyz, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trboBtDzBBjDH5wFSr/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 8 - Trojan - Clean IP : 443", server: bestcf.top, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trHGBVmQCUCB4XPyIE/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
+  - {name: "[Trojan] 9 - Trojan - Clean IP : 443", server: www.cloudflare-cn.com, port: 443, type: trojan, password: Pr0b!3M%3F, skip-cert-verify: true, network: ws, ws-opts: {path: "/trQNTbPz7pzRAUvUHQ/NDcuNzYuMjE4LjE2Myw1NC4xNjkuMjI5LjE4OA==?ed=2560"}, udp: true, tfo: false}
   - {name: "[VMess] ❗如果只显示此节点|0.1x", server: best.cdn.sqeven.cn, port: 8080, type: vmess, uuid: 784c0fe2-2bdc-4c77-8125-0a21aabed310, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: best.cdn.sqeven.cn}}, udp: true, tfo: false}
   - {name: "[VMess] ❗是客户端太旧导致|0.1x", server: bestcf.top, port: 8080, type: vmess, uuid: 784c0fe2-2bdc-4c77-8125-0a21aabed310, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: buyvmus2.6bnw.top}}, udp: true, tfo: false}
   - {name: "[VMess] ❗更新一下客户端|0.1x", server: mugen44.6bnw.top, port: 8080, type: vmess, uuid: 784c0fe2-2bdc-4c77-8125-0a21aabed310, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: buyvmus2.6bnw.top}}, udp: true, tfo: false}
   - {name: "[VMess] ❗请到网站使用教程|0.1x", server: mugen33.6bnw.top, port: 8080, type: vmess, uuid: 784c0fe2-2bdc-4c77-8125-0a21aabed310, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: buyvmus2.6bnw.top}}, udp: true, tfo: false}
-  - {name: "[SS] 广东省东莞市 电信IDC机房", server: 14.17.71.67, port: 10006, type: ss, cipher: chacha20-ietf-poly1305, password: 53db9c44-94a1-4976-8682-5d1c3642058d, udp: true, tfo: false}
   - {name: "[SS] 建议每次使用前都更新订阅", server: dafeizhu.whtjdasha.com, port: 29527, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
   - {name: "[SS] 过滤掉16条线路", server: dafeizhu.whtjdasha.com, port: 29527, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
   - {name: "[VMess] 🇨🇦 _CA_加拿大", server: 108.181.10.17, port: 80, type: vmess, uuid: 474e8680-701f-11ee-b436-205c6d5f5d78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
@@ -59,8 +58,6 @@ proxies:
   - {name: "[SS] 🇬🇧 英国01", server: dafeizhu.whtjdasha.com, port: 39209, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
   - {name: "[SS] 🇬🇧 英国02", server: xiaofeizhu.idsduf.com, port: 40021, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
   - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[VMess] 🇭🇰 香港 电讯盈科有限公司 2", server: v12.hdacd.com, port: 30812, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true, tfo: false}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 203.198.84.221, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[SS] 🇭🇰 香港01-IPv6", server: dafeizhu.whtjdasha.com, port: 29527, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
   - {name: "[SS] 🇭🇰 香港02-IPv6", server: xiaofeizhu.idsduf.com, port: 40010, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
   - {name: "[SS] 🇭🇰 香港03-IPv6", server: dafeizhu.whtjdasha.com, port: 19527, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
@@ -88,7 +85,6 @@ proxies:
   - {name: "[VMess] 🇺🇸 _US_美国_3", server: 45.199.138.186, port: 30000, type: vmess, uuid: 4ec0ae62-de09-4029-904a-0313d4628ecf, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1696682720138}, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_4", server: wnd3.shabijichang.com, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: wnd3.shabijichang.com}}, udp: true, tfo: false}
   - {name: "[VMess] 🇺🇸 _US_美国_5", server: 104.21.75.246, port: 80, type: vmess, uuid: c458695d-6908-45c3-9512-e0c46418454c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "[Trojan] 🇺🇸 美国 华盛顿Cogent通信公司", server: 38.96.254.102, port: 18509, type: trojan, password: .ie4rghJuMkcf0oF, sni: shoppingmall.electricbanana.click, skip-cert-verify: true, udp: true, tfo: false}
   - {name: "[SS] 🇺🇸 美国凤凰城01", server: dafeizhu.whtjdasha.com, port: 12980, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
   - {name: "[SS] 🇺🇸 美国凤凰城02", server: xiaofeizhu.idsduf.com, port: 12981, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
   - {name: "[SS] 🇺🇸 美国拉斯维加斯01", server: dafeizhu.whtjdasha.com, port: 12983, type: ss, cipher: 2022-blake3-aes-128-gcm, password: MDhhMTdjZDI0MjI2ZWRlNg==:Nzg0YzBmZTItMmJkYy00Yw==, udp: true, tfo: false}
@@ -139,7 +135,6 @@ proxy-groups:
       - "[VMess] ❗是客户端太旧导致|0.1x"
       - "[VMess] ❗更新一下客户端|0.1x"
       - "[VMess] ❗请到网站使用教程|0.1x"
-      - "[SS] 广东省东莞市 电信IDC机房"
       - "[SS] 建议每次使用前都更新订阅"
       - "[SS] 过滤掉16条线路"
       - "[VMess] 🇨🇦 _CA_加拿大"
@@ -159,8 +154,6 @@ proxy-groups:
       - "[SS] 🇬🇧 英国01"
       - "[SS] 🇬🇧 英国02"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 2"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -188,7 +181,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[Trojan] 🇺🇸 美国 华盛顿Cogent通信公司"
       - "[SS] 🇺🇸 美国凤凰城01"
       - "[SS] 🇺🇸 美国凤凰城02"
       - "[SS] 🇺🇸 美国拉斯维加斯01"
@@ -234,7 +226,6 @@ proxy-groups:
       - "[VMess] ❗是客户端太旧导致|0.1x"
       - "[VMess] ❗更新一下客户端|0.1x"
       - "[VMess] ❗请到网站使用教程|0.1x"
-      - "[SS] 广东省东莞市 电信IDC机房"
       - "[SS] 建议每次使用前都更新订阅"
       - "[SS] 过滤掉16条线路"
       - "[VMess] 🇨🇦 _CA_加拿大"
@@ -254,8 +245,6 @@ proxy-groups:
       - "[SS] 🇬🇧 英国01"
       - "[SS] 🇬🇧 英国02"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 2"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -283,7 +272,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[Trojan] 🇺🇸 美国 华盛顿Cogent通信公司"
       - "[SS] 🇺🇸 美国凤凰城01"
       - "[SS] 🇺🇸 美国凤凰城02"
       - "[SS] 🇺🇸 美国拉斯维加斯01"
@@ -329,7 +317,6 @@ proxy-groups:
       - "[VMess] ❗是客户端太旧导致|0.1x"
       - "[VMess] ❗更新一下客户端|0.1x"
       - "[VMess] ❗请到网站使用教程|0.1x"
-      - "[SS] 广东省东莞市 电信IDC机房"
       - "[SS] 建议每次使用前都更新订阅"
       - "[SS] 过滤掉16条线路"
       - "[VMess] 🇨🇦 _CA_加拿大"
@@ -349,8 +336,6 @@ proxy-groups:
       - "[SS] 🇬🇧 英国01"
       - "[SS] 🇬🇧 英国02"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 2"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -378,7 +363,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[Trojan] 🇺🇸 美国 华盛顿Cogent通信公司"
       - "[SS] 🇺🇸 美国凤凰城01"
       - "[SS] 🇺🇸 美国凤凰城02"
       - "[SS] 🇺🇸 美国拉斯维加斯01"
@@ -424,7 +408,6 @@ proxy-groups:
       - "[VMess] ❗是客户端太旧导致|0.1x"
       - "[VMess] ❗更新一下客户端|0.1x"
       - "[VMess] ❗请到网站使用教程|0.1x"
-      - "[SS] 广东省东莞市 电信IDC机房"
       - "[SS] 建议每次使用前都更新订阅"
       - "[SS] 过滤掉16条线路"
       - "[VMess] 🇨🇦 _CA_加拿大"
@@ -444,8 +427,6 @@ proxy-groups:
       - "[SS] 🇬🇧 英国01"
       - "[SS] 🇬🇧 英国02"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 2"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -473,7 +454,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[Trojan] 🇺🇸 美国 华盛顿Cogent通信公司"
       - "[SS] 🇺🇸 美国凤凰城01"
       - "[SS] 🇺🇸 美国凤凰城02"
       - "[SS] 🇺🇸 美国拉斯维加斯01"
@@ -520,7 +500,6 @@ proxy-groups:
       - "[VMess] ❗是客户端太旧导致|0.1x"
       - "[VMess] ❗更新一下客户端|0.1x"
       - "[VMess] ❗请到网站使用教程|0.1x"
-      - "[SS] 广东省东莞市 电信IDC机房"
       - "[SS] 建议每次使用前都更新订阅"
       - "[SS] 过滤掉16条线路"
       - "[VMess] 🇨🇦 _CA_加拿大"
@@ -540,8 +519,6 @@ proxy-groups:
       - "[SS] 🇬🇧 英国01"
       - "[SS] 🇬🇧 英国02"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 2"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -569,7 +546,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[Trojan] 🇺🇸 美国 华盛顿Cogent通信公司"
       - "[SS] 🇺🇸 美国凤凰城01"
       - "[SS] 🇺🇸 美国凤凰城02"
       - "[SS] 🇺🇸 美国拉斯维加斯01"
@@ -593,8 +569,6 @@ proxy-groups:
       - "[SS] 🇨🇳 台湾01-流媒体解锁|AI"
       - "[SS] 🇨🇳 台湾02-流媒体解锁|AI"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 2"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -641,7 +615,6 @@ proxy-groups:
       - "[VMess] ❗是客户端太旧导致|0.1x"
       - "[VMess] ❗更新一下客户端|0.1x"
       - "[VMess] ❗请到网站使用教程|0.1x"
-      - "[SS] 广东省东莞市 电信IDC机房"
       - "[SS] 建议每次使用前都更新订阅"
       - "[SS] 过滤掉16条线路"
       - "[VMess] 🇨🇦 _CA_加拿大"
@@ -661,8 +634,6 @@ proxy-groups:
       - "[SS] 🇬🇧 英国01"
       - "[SS] 🇬🇧 英国02"
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 2"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -690,7 +661,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[Trojan] 🇺🇸 美国 华盛顿Cogent通信公司"
       - "[SS] 🇺🇸 美国凤凰城01"
       - "[SS] 🇺🇸 美国凤凰城02"
       - "[SS] 🇺🇸 美国拉斯维加斯01"
@@ -701,8 +671,6 @@ proxy-groups:
     type: select
     proxies:
       - "[VMess] 🇭🇰 香港 电讯盈科有限公司"
-      - "[VMess] 🇭🇰 香港 电讯盈科有限公司 2"
-      - "[Trojan] 🇭🇰 香港 电讯盈科有限公司"
       - "[SS] 🇭🇰 香港01-IPv6"
       - "[SS] 🇭🇰 香港02-IPv6"
       - "[SS] 🇭🇰 香港03-IPv6"
@@ -734,7 +702,6 @@ proxy-groups:
       - "[VMess] 🇺🇸 _US_美国_3"
       - "[VMess] 🇺🇸 _US_美国_4"
       - "[VMess] 🇺🇸 _US_美国_5"
-      - "[Trojan] 🇺🇸 美国 华盛顿Cogent通信公司"
       - "[SS] 🇺🇸 美国凤凰城01"
       - "[SS] 🇺🇸 美国凤凰城02"
       - "[SS] 🇺🇸 美国拉斯维加斯01"
